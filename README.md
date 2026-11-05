@@ -1,6 +1,5 @@
 # RachaConta — Divisão de despesas compartilhadas
 
-**Disciplina:** Especificação & Planejamento do SDLC
 **Autor:** João Victor da Silva
 **Data:** 05/11/2026
 
